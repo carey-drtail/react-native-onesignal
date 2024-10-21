@@ -1,6 +1,6 @@
 {
-  "name": "react-native-onesignal",
-  "version": "5.2.5",
+  "name": "@drtail/react-native-onesignal",
+  "version": "5.2.5-pre.0",
   "description": "React Native OneSignal SDK",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -34,11 +34,11 @@
     "onesignal"
   ],
   "bugs": {
-    "url": "https://github.com/OneSignal/react-native-onesignal/issues"
+    "url": "https://github.com/carey-drtail/react-native-onesignal/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OneSignal/react-native-onesignal"
+    "url": "https://github.com/carey-drtail/react-native-onesignal"
   },
   "author": "OneSignal <https://www.onesignal.com>, Geektime <http://www.geektime.co.il>",
   "license": "MIT"
